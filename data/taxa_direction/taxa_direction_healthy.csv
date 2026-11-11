@@ -1,0 +1,309 @@
+﻿Comparison_order,Study_ID,Comparison,Age_group,Health_status,Taxon,Direction,Extraction_IDs,First_Author,Year,Plot_label,Significance
+1,1,Zang vs Han,Adults,Generally healthy,Actinomyces,Higher,1-T27,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Alloprevotella,Higher,1-T29,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Capnocytophaga,Lower,1-T32,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Significant
+1,1,Zang vs Han,Adults,Generally healthy,Fusobacterium,Higher,1-T28,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Gemella,Higher,1-T34,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Granulicatella,Higher,1-T33,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Haemophilus,Higher,1-T24,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Lautropia,Higher,1-T06,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Significant
+1,1,Zang vs Han,Adults,Generally healthy,Leptotrichia,Higher,1-T30,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Neisseria,Lower,1-T21,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Porphyromonas,Lower,1-T04; 1-T23,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Significant
+1,1,Zang vs Han,Adults,Generally healthy,Prevotella,Lower,1-T26,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Prevotella_7,Higher,1-T22,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Streptococcus,Higher,1-T20,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Treponema_2,Higher,1-T31,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+1,1,Zang vs Han,Adults,Generally healthy,Veillonella,Higher,1-T25,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Not significant
+2,1,Zang vs Han,Adults,Generally healthy,Porphyromonas,Lower,1-T08,Hao,2021,"Hao et al. (2021)
+Zang vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Alloprevotella,Lower,2-T21,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Centipeda,Lower,2-T31,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Eubacterium_nodatum_group,Lower,2-T20,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Filifactor,Lower,2-T29,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Fusobacterium,Lower,2-T16,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Gemella,Higher,2-T17,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Granulicatella,Higher,2-T22,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Haemophilus,Lower,2-T18,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Lachnoanaerobaculum,Lower,2-T30,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Neisseria,Lower,2-T14,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,norank_f__norank_o__Absconditabacteriales_SR1,Lower,2-T23,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,norank_f__norank_o__Clostridia_UCG-014,Lower,2-T33,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,norank_f__P5D1-392,Lower,2-T26,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Oribacterium,Lower,2-T32,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Peptostreptococcus,Lower,2-T24,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Porphyromonas,Lower,2-T13,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Rothia,Higher,2-T15,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Selenomonas,Lower,2-T19,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Streptococcus,Higher,2-T11,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,TM7x,Lower,2-T25,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Treponema,Lower,2-T27,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,unclassified_c__Bacilli,Higher,2-T34,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,unclassified_o__Lactobacillales,Higher,2-T28,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,unclassified_p__Firmicutes,Higher,2-T35,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+4,2,Tibetan vs Han,Adults,Generally healthy,Veillonella,Higher,2-T12,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han",Significant
+6,5,Tibetan vs Han,Children,Generally healthy,Acinetobacter,Lower,5-T11,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han",Not significant
+6,5,Tibetan vs Han,Children,Generally healthy,Anaerovorax,Lower,5-T09,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han",Significant
+6,5,Tibetan vs Han,Children,Generally healthy,Moraxella,Lower,5-T07,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han",Significant
+6,5,Tibetan vs Han,Children,Generally healthy,Porphyromonas,Lower,5-T05,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han",Significant
+6,5,Tibetan vs Han,Children,Generally healthy,Streptococcus,Higher,5-T03,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han",Significant
+7,5,Hui vs Han,Children,Generally healthy,Acinetobacter,Higher,5-T12,Liu,2021,"Liu et al. (2021)
+Hui vs Han",Not significant
+7,5,Hui vs Han,Children,Generally healthy,Anaerovorax,Lower,5-T10,Liu,2021,"Liu et al. (2021)
+Hui vs Han",Not significant
+7,5,Hui vs Han,Children,Generally healthy,Moraxella,Lower,5-T08,Liu,2021,"Liu et al. (2021)
+Hui vs Han",Not significant
+7,5,Hui vs Han,Children,Generally healthy,Porphyromonas,Lower,5-T06,Liu,2021,"Liu et al. (2021)
+Hui vs Han",Not significant
+7,5,Hui vs Han,Children,Generally healthy,Streptococcus,Higher,5-T04,Liu,2021,"Liu et al. (2021)
+Hui vs Han",Not significant
+12,11,Zhuang vs Han,Children,Generally healthy,Neisseria,Higher,11-T06,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han",Not reported/unclear
+12,11,Zhuang vs Han,Children,Generally healthy,Streptococcus,Lower,11-T05,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han",Not reported/unclear
+14,13,Dai vs Han,Children,Generally healthy,Bulleidia,Higher,13-T12,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+14,13,Dai vs Han,Children,Generally healthy,Prevotella,Higher,13-T11,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Actinomyces,Higher,13-T13,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Bergeyella,Lower,13-T17,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Corynebacterium,Lower,13-T14,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Faecalibacterium,Higher,13-T20,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Haemophilus,Lower,13-T21,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Haloplasma,Lower,13-T18,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Lachnoanaerobaculum,Higher,13-T19,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Olsenella,Higher,13-T15,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Pasteurella,Lower,13-T22,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+15,13,Dai vs Han,Adults,Generally healthy,Prevotella,Higher,13-T16,Tang,2025,"Tang et al. (2025)
+Dai vs Han",Significant
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Acidovorax,Lower,16-T09,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Aggregatibacter,Higher,16-T01,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Butyricicoccus,Lower,16-T10,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Eggerthia,Higher,16-T02,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Haemophilus,Lower,16-T12,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Kingella,Higher,16-T03,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Morococcus,Higher,16-T04,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Neisseria,Higher,16-T11,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Porphyromonas,Higher,16-T08,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Solobacterium,Higher,16-T05,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Tannerella,Higher,16-T06,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+16,16,Hunt-gathers vs Western-controls,Adults,Generally healthy,Treponema,Higher,16-T07,Lassalle,2018,"Lassalle et al. (2018)
+Hunt-gathers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Acidovorax,Lower,16-T21,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Aggregatibacter,Higher,16-T13,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Butyricicoccus,Lower,16-T22,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Eggerthia,Higher,16-T14,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Haemophilus,Lower,16-T24,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Kingella,Lower,16-T15,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Morococcus,Higher,16-T16,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Neisseria,Higher,16-T23,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Porphyromonas,Higher,16-T20,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Solobacterium,Lower,16-T17,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Tannerella,Higher,16-T18,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+17,16,Traditional-farmers vs Western-controls,Adults,Generally healthy,Treponema,Higher,16-T19,Lassalle,2018,"Lassalle et al. (2018)
+Traditional-farmers vs Western-controls",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Atopobium,Lower,21-T05,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Bacteroidetes_unclassified,Higher,21-T01,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Brachymonas,Higher,21-T33,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Granulicatella,Higher,21-T13,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Moraxella,Higher,21-T25,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Neisseria,Higher,21-T17,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Porphyromonadaceae_unclassified,Higher,21-T09,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Simonsiella,Higher,21-T29,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+18,21,Chepang vs European Americans,Adults,Generally healthy,Streptobacillus,Higher,21-T21,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Atopobium,Lower,21-T06,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Bacteroidetes_unclassified,Higher,21-T02,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Brachymonas,Higher,21-T34,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Granulicatella,Higher,21-T14,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Moraxella,Higher,21-T26,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Neisseria,Higher,21-T18,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Porphyromonadaceae_unclassified,Higher,21-T10,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Simonsiella,Higher,21-T30,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+19,21,Raji/Raute vs European Americans,Adults,Generally healthy,Streptobacillus,Higher,21-T22,Ryu,2024,"Ryu et al. (2024)
+Raji/Raute vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Atopobium,Lower,21-T07,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Bacteroidetes_unclassified,Higher,21-T03,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Brachymonas,Higher,21-T35,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Granulicatella,Higher,21-T15,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Moraxella,Higher,21-T27,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Neisseria,Higher,21-T19,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Porphyromonadaceae_unclassified,Higher,21-T11,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Simonsiella,Higher,21-T31,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+20,21,Tharu/Newar vs European Americans,Adults,Generally healthy,Streptobacillus,Higher,21-T23,Ryu,2024,"Ryu et al. (2024)
+Tharu/Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Atopobium,Lower,21-T08,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Bacteroidetes_unclassified,Higher,21-T04,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Brachymonas,Higher,21-T36,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Granulicatella,Higher,21-T16,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Moraxella,Higher,21-T28,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Neisseria,Higher,21-T20,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Porphyromonadaceae_unclassified,Higher,21-T12,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Simonsiella,Higher,21-T32,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+21,21,Newar vs European Americans,Adults,Generally healthy,Streptobacillus,Higher,21-T24,Ryu,2024,"Ryu et al. (2024)
+Newar vs European Americans",Not reported/unclear
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Actinobacillus,Higher,32-T01,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Actinomyces,Lower,32-T02,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Aggregatibacter,Lower,32-T03,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Atopobium,Lower,32-T04,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Campylobacter,Lower,32-T05,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Capnocytophaga,Higher,32-T06,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Citrobacter,Higher,32-T07,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Enterobacter,Higher,32-T08,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Escherichia,Higher,32-T09,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Fusobacterium,Higher,32-T10,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Gemella,Higher,32-T11,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Granulicatella,Lower,32-T12,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Haemophilus,Lower,32-T13,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Klebsiella,Higher,32-T14,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Leptotrichia,Lower,32-T15,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Megasphaera,Lower,32-T16,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Neisseria,Lower,32-T17,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Oribacterium,Lower,32-T18,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Porphyromonas,Lower,32-T19,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Prevotella,Higher,32-T20,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Providencia,Equal (reported),32-T21,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Rothia,Higher,32-T22,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Salmonella,Equal (reported),32-T23,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Selenomonas,Lower,32-T24,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Serratia,Equal (reported),32-T25,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Not significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Streptococcus,Higher,32-T26,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,TM7_genera_incertae_sedis,Lower,32-T27,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Veillonella,Lower,32-T28,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans",Significant

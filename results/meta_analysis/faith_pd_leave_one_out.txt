@@ -1,0 +1,37 @@
+Faith's phylogenetic diversity: generally healthy adults 
+Random-effects model: REML + standard Hartung-Knapp
+
+FULL MODEL
+
+Random-Effects Model (k = 4; tau^2 estimator: REML)
+
+tau^2 (estimated amount of total heterogeneity): 0.0822 (SE = 0.1913)
+tau (square root of estimated tau^2 value):      0.2867
+I^2 (total heterogeneity / total variability):   35.15%
+H^2 (total variability / sampling variability):  1.54
+
+Test for Heterogeneity:
+Q(df = 3) = 4.8864, p-val = 0.1803
+
+Model Results:
+
+estimate      se    tval  df    pval   ci.lb   ci.ub    
+  1.1364  0.2559  4.4402   3  0.0212  0.3219  1.9509  * 
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+
+LEAVE-ONE-STUDY-OUT MODELS
+ analysis     omitted_study k estimate      se   tval df     pval     ci.lb
+ faith_pd None (full model) 4  1.13640 0.25593 4.4402  3 0.021239  0.321903
+ faith_pd     Lassalle 2018 3  1.23040 0.33774 3.6431  2 0.067777 -0.222771
+ faith_pd        Dobon 2023 3  1.04030 0.37337 2.7862  2 0.108290 -0.566187
+ faith_pd          Ryu 2024 3  0.98226 0.23400 4.1977  2 0.052336 -0.024557
+ faith_pd         Tang 2025 3  1.28654 0.24088 5.3411  2 0.033313  0.250134
+  ci.ub      tau2      Q      Qp      I2     H2
+ 1.9509 0.0822004 4.8864 0.18031 35.1469 1.5419
+ 2.6836 0.1492791 3.9802 0.13668 49.3874 1.9758
+ 2.6468 0.2218964 4.3485 0.11369 54.1807 2.1825
+ 1.9891 0.0451914 2.4563 0.29283 24.0211 1.3162
+ 2.3230 0.0094056 2.6083 0.27140  6.2829 1.0670

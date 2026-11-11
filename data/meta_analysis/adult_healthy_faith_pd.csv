@@ -1,0 +1,5 @@
+study,comparison,n1,m1,sd1,n0,m0,sd0,source
+Lassalle 2018,Hunter-gatherers / traditional farmers vs Western controls,24,220.0255,51.8982365135598,9,179.379,37.404,Combined groups; PhyloSift rooted PD
+Dobon 2023,Agta vs Palanan farmers,138,17.52,3.83,14,12.62,1.86,Extraction
+Ryu 2024,Chepang / Raji-Raute / Tharu-Newar / Newar USA vs European-Americans,85,56.76470705882353,7.309956932333366,6,43.291,10.2868,Combined four nonoverlapping Nepali groups; shared comparator; estimated from digitised quartiles; verify post-QC n
+Tang 2025,Dai healthy adults vs Han healthy adults,10,57.257334,11.157607,10,51.0188,11.339054,"Estimated (Luo/Wan), Fig 2c; healthy adult stratum only"

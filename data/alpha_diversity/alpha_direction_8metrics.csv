@@ -1,0 +1,497 @@
+﻿Comparison_order,Study_ID,Comparison,Age_group,Health_status,Metric,Direction,Extraction_IDs,First_Author,Year,Plot_label
+1,1,Zang vs Han (500 m),Adults,Generally healthy,Shannon,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+1,1,Zang vs Han (500 m),Adults,Generally healthy,Simpson,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+1,1,Zang vs Han (500 m),Adults,Generally healthy,Chao1,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+1,1,Zang vs Han (500 m),Adults,Generally healthy,Observed richness,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+1,1,Zang vs Han (500 m),Adults,Generally healthy,Phylogenetic diversity (PD),Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+1,1,Zang vs Han (500 m),Adults,Generally healthy,ACE,Lower,1-A01,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+1,1,Zang vs Han (500 m),Adults,Generally healthy,BWPD (0.25),Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+1,1,Zang vs Han (500 m),Adults,Generally healthy,Pielou evenness,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plain)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,Shannon,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,Simpson,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,Chao1,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,Observed richness,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,Phylogenetic diversity (PD),Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,ACE,Higher,1-A02,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,BWPD (0.25),Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+2,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,Pielou evenness,Not reported,,Hao,2021,"Hao et al. (2021)
+Zang vs Han (Plateau)"
+3,2,Tibetan vs Han,Adults,Generally healthy,Shannon,Lower,2-A04,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+3,2,Tibetan vs Han,Adults,Generally healthy,Simpson,Higher,2-A05,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+3,2,Tibetan vs Han,Adults,Generally healthy,Chao1,Higher,2-A01,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+3,2,Tibetan vs Han,Adults,Generally healthy,Observed richness,Higher,2-A03,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+3,2,Tibetan vs Han,Adults,Generally healthy,Phylogenetic diversity (PD),Not reported,,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+3,2,Tibetan vs Han,Adults,Generally healthy,ACE,Higher,2-A02,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+3,2,Tibetan vs Han,Adults,Generally healthy,BWPD (0.25),Not reported,,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+3,2,Tibetan vs Han,Adults,Generally healthy,Pielou evenness,Not reported,,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,Shannon,Higher,3-A01,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,Simpson,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,Chao1,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,Observed richness,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,Phylogenetic diversity (PD),Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,ACE,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,BWPD (0.25),Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+4,3,Tibetan vs Han,Adults,Generally healthy,Pielou evenness,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,Shannon,Higher,3-A02,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,Simpson,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,Chao1,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,Observed richness,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,Phylogenetic diversity (PD),Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,ACE,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,BWPD (0.25),Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal conditions,Pielou evenness,Not reported,,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Shannon,Lower,5-A01,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Simpson,Not reported,,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Chao1,Not reported,,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Observed richness,Lower,5-A03,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Phylogenetic diversity (PD),Not reported,,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,ACE,Not reported,,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,BWPD (0.25),Not reported,,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Pielou evenness,Not reported,,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Shannon,Higher,5-A02,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Simpson,Not reported,,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Chao1,Not reported,,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Observed richness,Lower,5-A04,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Phylogenetic diversity (PD),Not reported,,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,ACE,Not reported,,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,BWPD (0.25),Not reported,,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Pielou evenness,Not reported,,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+8,10,Tu vs Han,Adults,Dental caries,Shannon,Higher,10-A02,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+8,10,Tu vs Han,Adults,Dental caries,Simpson,Not reported,,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+8,10,Tu vs Han,Adults,Dental caries,Chao1,Higher,10-A01,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+8,10,Tu vs Han,Adults,Dental caries,Observed richness,Higher,10-A04,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+8,10,Tu vs Han,Adults,Dental caries,Phylogenetic diversity (PD),Higher,10-A03,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+8,10,Tu vs Han,Adults,Dental caries,ACE,Not reported,,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+8,10,Tu vs Han,Adults,Dental caries,BWPD (0.25),Not reported,,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+8,10,Tu vs Han,Adults,Dental caries,Pielou evenness,Not reported,,Yun,2019,"Yun et al. (2019)
+Tu vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,Shannon,Equal,10-A06,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,Simpson,Not reported,,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,Chao1,Lower,10-A05,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,Observed richness,Lower,10-A08,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,Phylogenetic diversity (PD),Higher,10-A07,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,ACE,Not reported,,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,BWPD (0.25),Not reported,,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+9,10,Tibetan vs Han,Adults,Dental caries,Pielou evenness,Not reported,,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han"
+10,10,Hui vs Han,Adults,Dental caries,Shannon,Higher,10-A10,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+10,10,Hui vs Han,Adults,Dental caries,Simpson,Not reported,,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+10,10,Hui vs Han,Adults,Dental caries,Chao1,Higher,10-A09,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+10,10,Hui vs Han,Adults,Dental caries,Observed richness,Higher,10-A12,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+10,10,Hui vs Han,Adults,Dental caries,Phylogenetic diversity (PD),Higher,10-A11,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+10,10,Hui vs Han,Adults,Dental caries,ACE,Not reported,,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+10,10,Hui vs Han,Adults,Dental caries,BWPD (0.25),Not reported,,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+10,10,Hui vs Han,Adults,Dental caries,Pielou evenness,Not reported,,Yun,2019,"Yun et al. (2019)
+Hui vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,Shannon,Higher,11-A01,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,Simpson,Not reported,,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,Chao1,Higher,11-A02,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,Observed richness,Not reported,,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,Phylogenetic diversity (PD),Not reported,,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,ACE,Not reported,,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,BWPD (0.25),Not reported,,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+11,11,Zhuang vs Han,Children,Generally healthy,Pielou evenness,Not reported,,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+12,13,Dai vs Han,Children,Generally healthy,Shannon,Lower,13-A07,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+12,13,Dai vs Han,Children,Generally healthy,Simpson,Lower,13-A04,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+12,13,Dai vs Han,Children,Generally healthy,Chao1,Lower,13-A01,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+12,13,Dai vs Han,Children,Generally healthy,Observed richness,Lower,13-A10,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+12,13,Dai vs Han,Children,Generally healthy,Phylogenetic diversity (PD),Lower,13-A13,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+12,13,Dai vs Han,Children,Generally healthy,ACE,Not reported,,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+12,13,Dai vs Han,Children,Generally healthy,BWPD (0.25),Not reported,,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+12,13,Dai vs Han,Children,Generally healthy,Pielou evenness,Lower,13-A16,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,Shannon,Higher,13-A08,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,Simpson,Higher,13-A05,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,Chao1,Higher,13-A02,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,Observed richness,Higher,13-A11,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,13-A14,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,ACE,Not reported,,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,BWPD (0.25),Not reported,,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Generally healthy,Pielou evenness,Higher,13-A17,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,Shannon,Higher,13-A09,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,Simpson,Lower,13-A06,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,Chao1,Lower,13-A03,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,Observed richness,Lower,13-A12,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,Phylogenetic diversity (PD),Higher,13-A15,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,ACE,Not reported,,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,BWPD (0.25),Not reported,,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Adults,Systemic conditions,Pielou evenness,Higher,13-A18,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,Shannon,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,Simpson,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,Chao1,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,Observed richness,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,16-A03,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,ACE,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,BWPD (0.25),Higher,16-A04,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+15,16,Hunter-gatherers vs Western controls,Adults,Generally healthy,Pielou evenness,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Hunter-gatherers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,Shannon,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,Simpson,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,Chao1,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,Observed richness,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,16-A05,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,ACE,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,BWPD (0.25),Higher,16-A06,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+16,16,Traditional farmers vs Western controls,Adults,Generally healthy,Pielou evenness,Not reported,,Lassalle,2018,"Lassalle et al. (2018)
+Traditional farmers vs Western controls"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,Shannon,Not reported,,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,Simpson,Not reported,,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,Chao1,Not reported,,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,Observed richness,Higher,17-A01,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,17-A02,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,ACE,Not reported,,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,BWPD (0.25),Not reported,,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+17,17,Agta vs Palanan farmers,Adults,Generally healthy,Pielou evenness,Not reported,,Dobon,2023,"Dobon et al. (2023)
+Agta vs Palanan farmers"
+18,9,Uyghur vs Han,Children,Generally healthy,Shannon,Lower,9-A10,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+18,9,Uyghur vs Han,Children,Generally healthy,Simpson,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+18,9,Uyghur vs Han,Children,Generally healthy,Chao1,Lower,9-A01,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+18,9,Uyghur vs Han,Children,Generally healthy,Observed richness,Lower,9-A04,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+18,9,Uyghur vs Han,Children,Generally healthy,Phylogenetic diversity (PD),Lower,9-A07,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+18,9,Uyghur vs Han,Children,Generally healthy,ACE,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+18,9,Uyghur vs Han,Children,Generally healthy,BWPD (0.25),Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+18,9,Uyghur vs Han,Children,Generally healthy,Pielou evenness,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,Shannon,Higher,9-A11,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,Simpson,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,Chao1,Lower,9-A02,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,Observed richness,Lower,9-A05,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,Phylogenetic diversity (PD),Lower,9-A08,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,ACE,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,BWPD (0.25),Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+19,9,Uyghur vs Han,Children,Dental caries,Pielou evenness,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,Shannon,Lower,9-A12,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,Simpson,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,Chao1,Lower,9-A03,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,Observed richness,Lower,9-A06,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,Phylogenetic diversity (PD),Lower,9-A09,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,ACE,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,BWPD (0.25),Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+20,9,Uyghur vs Han,Children,Dental caries,Pielou evenness,Not reported,,Yu,2024,"Yu et al. (2024)
+Uyghur vs Han"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,Shannon,Not reported,,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,Simpson,Not reported,,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,Chao1,Not reported,,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,Observed richness,Not reported,,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,Phylogenetic diversity (PD),Higher,22-A01,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,ACE,Not reported,,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,BWPD (0.25),Not reported,,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+21,22,Indigenous Australian vs Non-Indigenous Australian,Adults,Mixed,Pielou evenness,Not reported,,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous  vs Non-Indigenous Australian"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Shannon,Not reported,,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Simpson,Not reported,,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Chao1,Not reported,,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Observed richness,Lower,27-A01,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Phylogenetic diversity (PD),Lower,27-A02,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,ACE,Not reported,,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,BWPD (0.25),Not reported,,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+22,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Pielou evenness,Not reported,,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,Shannon,Lower,35-A02,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,Simpson,Not reported,,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,Chao1,Not reported,,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,Observed richness,Higher,35-A01,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,Phylogenetic diversity (PD),Not reported,,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,ACE,Not reported,,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,BWPD (0.25),Not reported,,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+23,35,Baka/Nzime vs industrialised,Adults,Mixed,Pielou evenness,Not reported,,Velsko,2023,"Velsko et al. (2023)
+Baka/Nzime vs industrialised"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,Shannon,Not reported,,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,Simpson,Not reported,,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,Chao1,Not reported,,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,Observed richness,Not reported,,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,Phylogenetic diversity (PD),Higher,36-A01,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,ACE,Not reported,,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,BWPD (0.25),Not reported,,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+24,36,Yanomami vs US,Mixed,Not assessed/reported,Pielou evenness,Not reported,,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,Shannon,Higher,21-A05,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,Simpson,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,Chao1,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,Observed richness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,21-A01,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,ACE,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,BWPD (0.25),Not reported,,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+25,21,Chepang vs European-Americans,Adults,Generally healthy,Pielou evenness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Chepang vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,Shannon,Higher,21-A06,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,Simpson,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,Chao1,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,Observed richness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,21-A02,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,ACE,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,BWPD (0.25),Not reported,,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+26,21,Raji + Raute vs European-Americans,Adults,Generally healthy,Pielou evenness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Raji + Raute vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,Shannon,Higher,21-A07,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,Simpson,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,Chao1,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,Observed richness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,21-A03,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,ACE,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,BWPD (0.25),Not reported,,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+27,21,Tharu + Newar vs European-Americans,Adults,Generally healthy,Pielou evenness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Tharu + Newar vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,Shannon,Higher,21-A08,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,Simpson,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,Chao1,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,Observed richness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,Phylogenetic diversity (PD),Higher,21-A04,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,ACE,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,BWPD (0.25),Not reported,,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+28,21,Newar in USA vs European-Americans,Adults,Generally healthy,Pielou evenness,Not reported,,Ryu,2024,"Ryu et al. (2024)
+Newar in USA vs European-Americans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,Shannon,Lower,32-A01,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,Simpson,Not reported,,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,Chao1,Not reported,,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,Observed richness,Not reported,,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,Phylogenetic diversity (PD),Not reported,,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,ACE,Not reported,,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,BWPD (0.25),Not reported,,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+29,32,Indigenous Alaskans vs Germans,Adults,Generally healthy,Pielou evenness,Not reported,,Li,2014,"Li et al. (2014)
+Indigenous Alaskans vs Germans"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,Shannon,Higher,32-A02,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,Simpson,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,Chao1,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,Observed richness,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,Phylogenetic diversity (PD),Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,ACE,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,BWPD (0.25),Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+30,32,Batwa vs DRC agriculturalists,Adults,Generally healthy,Pielou evenness,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs DRC agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,Shannon,Higher,32-A03,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,Simpson,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,Chao1,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,Observed richness,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,Phylogenetic diversity (PD),Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,ACE,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,BWPD (0.25),Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"
+31,32,Batwa vs Sierra Leone agriculturalists,Adults,Generally healthy,Pielou evenness,Not reported,,Li,2014,"Li et al. (2014)
+Batwa vs Sierra Leone agriculturalists"

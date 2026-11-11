@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='612.00pt' height='309.60pt' viewBox='0 0 612.00 309.60'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MTIuMDB8MC4wMHwzMDkuNjA='>
+    <rect x='0.00' y='0.00' width='612.00' height='309.60' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHwzMDkuNjA=)'>
+<rect x='0.00' y='0.00' width='612.00' height='309.60' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNzguOTN8NTk4LjA1fDQzLjM0fDI3My42Mg=='>
+    <rect x='78.93' y='43.34' width='519.13' height='230.29' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNzguOTN8NTk4LjA1fDQzLjM0fDI3My42Mg==)'>
+<polyline points='147.68,273.62 147.68,43.34 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='261.04,273.62 261.04,43.34 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='374.40,273.62 374.40,43.34 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='487.76,273.62 487.76,43.34 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<line x1='261.04' y1='273.62' x2='261.04' y2='43.34' style='stroke-width: 1.07; stroke: #777777; stroke-linecap: butt;' />
+<polyline points='499.03,65.62 499.03,65.62 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='499.03,65.62 185.66,65.62 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='185.66,65.62 185.66,65.62 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='494.17,102.76 494.17,102.76 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='494.17,102.76 314.43,102.76 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='314.43,102.76 314.43,102.76 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='497.55,139.91 497.55,139.91 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='497.55,139.91 122.53,139.91 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='122.53,139.91 122.53,139.91 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='554.71,177.05 554.71,177.05 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='554.71,177.05 113.79,177.05 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='113.79,177.05 113.79,177.05 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='574.46,214.19 574.46,214.19 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='574.46,214.19 124.34,214.19 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='124.34,214.19 124.34,214.19 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='551.07,251.33 551.07,251.33 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='551.07,251.33 102.52,251.33 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='102.52,251.33 102.52,251.33 ' style='stroke-width: 1.60; stroke: #333333; stroke-linecap: butt;' />
+<circle cx='342.35' cy='65.62' r='4.73' style='stroke-width: 0.50; stroke: #FFFFFF; fill: #111111;' />
+<circle cx='404.30' cy='102.76' r='4.73' style='stroke-width: 0.50; stroke: #FFFFFF; fill: #15965B;' />
+<circle cx='310.04' cy='139.91' r='4.73' style='stroke-width: 0.50; stroke: #FFFFFF; fill: #15965B;' />
+<circle cx='334.25' cy='177.05' r='4.73' style='stroke-width: 0.50; stroke: #FFFFFF; fill: #15965B;' />
+<circle cx='349.40' cy='214.19' r='4.73' style='stroke-width: 0.50; stroke: #FFFFFF; fill: #15965B;' />
+<circle cx='326.80' cy='251.33' r='4.73' style='stroke-width: 0.50; stroke: #FFFFFF; fill: #15965B;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHwzMDkuNjA=)'>
+<text x='73.99' y='254.48' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='49.84px' lengthAdjust='spacingAndGlyphs'>Omit Li 2014</text>
+<text x='73.99' y='217.34' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='58.66px' lengthAdjust='spacingAndGlyphs'>Omit Ryu 2024</text>
+<text x='73.99' y='180.20' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='61.92px' lengthAdjust='spacingAndGlyphs'>Omit Tang 2025</text>
+<text x='73.99' y='143.06' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='54.25px' lengthAdjust='spacingAndGlyphs'>Omit Du 2023</text>
+<text x='73.99' y='105.91' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='64.03px' lengthAdjust='spacingAndGlyphs'>Omit Dong 2021</text>
+<text x='73.99' y='68.77' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='40.56px' lengthAdjust='spacingAndGlyphs'>Full model</text>
+<text x='147.68' y='284.85' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='15.14px' lengthAdjust='spacingAndGlyphs'>-0.5</text>
+<text x='261.04' y='284.85' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.0</text>
+<text x='374.40' y='284.85' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.5</text>
+<text x='487.76' y='284.85' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.0</text>
+<text x='338.49' y='297.32' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='173.41px' lengthAdjust='spacingAndGlyphs'>Hedges' g (Hartung-Knapp 95% CI)</text>
+<text x='78.93' y='35.54' style='font-size: 11.00px; font-family: "Arial";' textLength='322.27px' lengthAdjust='spacingAndGlyphs'>Leave-one-study-out sensitivity analysis (REML + Hartung-Knapp)</text>
+<text x='78.93' y='19.41' style='font-size: 13.20px; font-weight: bold; font-family: "Arial";' textLength='272.52px' lengthAdjust='spacingAndGlyphs'>Shannon diversity: generally healthy adults</text>
+</g>
+</g>
+</svg>

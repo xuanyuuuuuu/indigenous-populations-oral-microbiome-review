@@ -1,0 +1,6 @@
+study,comparison,n1,m1,sd1,n0,m0,sd0,source
+Dong 2021,Tibetan vs Han,90,4.21,0.43,35,4.38,0.33,Extraction 2-A04; Reported
+Du 2023,Tibetan vs Han (healthy),24,7.295781,0.358866,11,6.88036,0.531736,Extraction 3-A01; Estimated (Luo/Wan)
+Tang 2025,Dai healthy adults vs Han healthy adults,10,6.089078,0.501193,10,5.773853,0.523974,Extraction 13-A08; Estimated (Luo/Wan)
+Ryu 2024,Four Nepali groups vs European-Americans,85,3.347952941176471,0.3975775616417611,6,3.236,0.5835,"Combined 4 nonoverlapping Nepali groups, shared comparator n=6; estimated from digitised quartiles; verify post-QC n"
+Li 2014,Batwa vs DRC + Sierra Leone agriculturalists,38,4.07248,1.23502,28,3.214235357142857,1.5011421220239884,32-A02 + 32-A03; combined independent comparator groups; shared Batwa group counted once; same paper as Alaska contrast; primary selected comparison; Alaska vs Germans reserved for sensitivity analysis

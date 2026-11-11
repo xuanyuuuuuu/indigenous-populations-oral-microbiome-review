@@ -1,0 +1,39 @@
+Shannon diversity: generally healthy adults 
+Random-effects model: REML + standard Hartung-Knapp
+
+FULL MODEL
+
+Random-Effects Model (k = 5; tau^2 estimator: REML)
+
+tau^2 (estimated amount of total heterogeneity): 0.2423 (SE = 0.2523)
+tau (square root of estimated tau^2 value):      0.4922
+I^2 (total heterogeneity / total variability):   71.19%
+H^2 (total variability / sampling variability):  3.47
+
+Test for Heterogeneity:
+Q(df = 4) = 17.0160, p-val = 0.0019
+
+Model Results:
+
+estimate      se    tval  df    pval    ci.lb   ci.ub    
+  0.3586  0.2489  1.4408   4  0.2231  -0.3324  1.0497    
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+
+LEAVE-ONE-STUDY-OUT MODELS
+ analysis     omitted_study k estimate      se    tval df    pval    ci.lb
+  shannon None (full model) 5  0.35863 0.24891 1.44082  4 0.22307 -0.33245
+  shannon         Dong 2021 4  0.63190 0.12455 5.07329  3 0.01479  0.23551
+  shannon           Du 2023 4  0.21614 0.25988 0.83169  3 0.46659 -0.61091
+  shannon         Tang 2025 4  0.32293 0.30555 1.05689  3 0.36814 -0.64946
+  shannon          Ryu 2024 4  0.38972 0.31192 1.24942  3 0.30011 -0.60295
+  shannon           Li 2014 4  0.29004 0.31083 0.93312  3 0.41959 -0.69916
+  ci.ub    tau2       Q         Qp     I2     H2
+ 1.0497 0.24227 17.0160 0.00191918 71.195 3.4716
+ 1.0283 0.00000  1.5181 0.67810916  0.000 1.0000
+ 1.0432 0.21360 12.1616 0.00684956 69.915 3.3240
+ 1.2953 0.30344 16.1382 0.00106236 77.946 4.5342
+ 1.3824 0.32383 16.9641 0.00071886 78.602 4.6733
+ 1.2792 0.30580 12.8073 0.00507250 71.808 3.5471

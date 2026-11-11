@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Rproj.user/
+R_library/
+renv/library/
+*.Rproj
+~$*
+.DS_Store
+Thumbs.db

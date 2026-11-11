@@ -1,0 +1,659 @@
+﻿Comparison_order,Study_ID,Comparison,Age_group,Health_status,Taxon,Direction,Significance,P_value,Significance_basis,Extraction_IDs,First_Author,Year,Plot_label
+1,1,Zang vs Han (overall),Adults,Generally healthy,Actinomyces,Higher,Not significant,0.7562,Provisional p<0.05; verify study-specific testing/correction,1-T27,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Alloprevotella,Higher,Not significant,0.6186,Provisional p<0.05; verify study-specific testing/correction,1-T29,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Capnocytophaga,Lower,Significant,0.04201,Provisional p<0.05; verify study-specific testing/correction,1-T32,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Fusobacterium,Higher,Not significant,0.7414,Provisional p<0.05; verify study-specific testing/correction,1-T28,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Gemella,Higher,Not significant,0.4014,Provisional p<0.05; verify study-specific testing/correction,1-T34,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Granulicatella,Higher,Not significant,0.7287,Provisional p<0.05; verify study-specific testing/correction,1-T33,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Haemophilus,Higher,Not significant,0.6667,Provisional p<0.05; verify study-specific testing/correction,1-T24,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Lautropia,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,1-T06,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Leptotrichia,Higher,Not significant,0.8998,Provisional p<0.05; verify study-specific testing/correction,1-T30,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Neisseria,Lower,Not significant,0.1346,Provisional p<0.05; verify study-specific testing/correction,1-T21,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Porphyromonas,Lower,Significant,1-T04: <0.001; 1-T23: 5.569e-05,Provisional p<0.05; verify study-specific testing/correction,1-T04; 1-T23,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Prevotella,Lower,Not significant,0.0653,Provisional p<0.05; verify study-specific testing/correction,1-T26,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Prevotella_7,Higher,Not significant,0.4654,Provisional p<0.05; verify study-specific testing/correction,1-T22,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Streptococcus,Higher,Not significant,0.06779,Provisional p<0.05; verify study-specific testing/correction,1-T20,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Treponema_2,Higher,Not significant,0.7754,Provisional p<0.05; verify study-specific testing/correction,1-T31,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+1,1,Zang vs Han (overall),Adults,Generally healthy,Veillonella,Higher,Not significant,0.1812,Provisional p<0.05; verify study-specific testing/correction,1-T25,Hao,2021,"Hao et al. (2021)
+Zang vs Han (overall)"
+2,1,Zang vs Han (500 m),Adults,Generally healthy,Haemophilus,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,1-T13,Hao,2021,"Hao et al. (2021)
+Zang vs Han (500 m)"
+2,1,Zang vs Han (500 m),Adults,Generally healthy,Porphyromonas,Lower,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,1-T08,Hao,2021,"Hao et al. (2021)
+Zang vs Han (500 m)"
+2,1,Zang vs Han (500 m),Adults,Generally healthy,Veillonella,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,1-T14,Hao,2021,"Hao et al. (2021)
+Zang vs Han (500 m)"
+3,1,Zang vs Han (3000–4000 m),Adults,Generally healthy,Lautropia,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,1-T18,Hao,2021,"Hao et al. (2021)
+Zang vs Han (3000–4000 m)"
+4,2,Tibetan vs Han,Adults,Generally healthy,Alloprevotella,Lower,Significant,<1e-15,Provisional p<0.05; verify study-specific testing/correction,2-T21,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Centipeda,Lower,Significant,0.03592,Provisional p<0.05; verify study-specific testing/correction,2-T31,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Eubacterium_nodatum_group,Lower,Significant,0.001122,Provisional p<0.05; verify study-specific testing/correction,2-T20,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Filifactor,Lower,Significant,0.008433,Provisional p<0.05; verify study-specific testing/correction,2-T29,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Fusobacterium,Lower,Significant,0.01335,Provisional p<0.05; verify study-specific testing/correction,2-T16,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Gemella,Higher,Significant,0.006439,Provisional p<0.05; verify study-specific testing/correction,2-T17,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Granulicatella,Higher,Significant,0.01197,Provisional p<0.05; verify study-specific testing/correction,2-T22,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Haemophilus,Lower,Significant,3.465e-05,Provisional p<0.05; verify study-specific testing/correction,2-T18,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Lachnoanaerobaculum,Lower,Significant,0.0004949,Provisional p<0.05; verify study-specific testing/correction,2-T30,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Neisseria,Lower,Significant,8.539e-05,Provisional p<0.05; verify study-specific testing/correction,2-T14,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Oribacterium,Lower,Significant,0.005125,Provisional p<0.05; verify study-specific testing/correction,2-T32,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Peptostreptococcus,Lower,Significant,0.03027,Provisional p<0.05; verify study-specific testing/correction,2-T24,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Porphyromonas,Lower,Significant,8.479e-07,Provisional p<0.05; verify study-specific testing/correction,2-T13,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Rothia,Higher,Significant,0.02047,Provisional p<0.05; verify study-specific testing/correction,2-T15,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Selenomonas,Lower,Significant,0.001212,Provisional p<0.05; verify study-specific testing/correction,2-T19,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Streptococcus,Higher,Significant,<1e-15,Provisional p<0.05; verify study-specific testing/correction,2-T11,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,TM7x,Lower,Significant,0.0066,Provisional p<0.05; verify study-specific testing/correction,2-T25,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Treponema,Lower,Significant,0.003065,Provisional p<0.05; verify study-specific testing/correction,2-T27,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,Veillonella,Higher,Significant,0.003927,Provisional p<0.05; verify study-specific testing/correction,2-T12,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,norank_f__P5D1-392,Lower,Significant,<1e-15,Provisional p<0.05; verify study-specific testing/correction,2-T26,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,norank_f__norank_o__Absconditabacteriales_SR1,Lower,Significant,0.01713,Provisional p<0.05; verify study-specific testing/correction,2-T23,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,norank_f__norank_o__Clostridia_UCG-014,Lower,Significant,0.02184,Provisional p<0.05; verify study-specific testing/correction,2-T33,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,unclassified_c__Bacilli,Higher,Significant,4.868e-07,Provisional p<0.05; verify study-specific testing/correction,2-T34,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,unclassified_o__Lactobacillales,Higher,Significant,1.862e-05,Provisional p<0.05; verify study-specific testing/correction,2-T28,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+4,2,Tibetan vs Han,Adults,Generally healthy,unclassified_p__Firmicutes,Higher,Significant,1.813e-06,Provisional p<0.05; verify study-specific testing/correction,2-T35,Dong,2021,"Dong et al. (2021)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Actinomyces,Higher,Not significant,0.916602897,Provisional p<0.05; verify study-specific testing/correction,3-T15,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Campylobacter,Lower,Not significant,0.757498119,Provisional p<0.05; verify study-specific testing/correction,3-T14,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Capnocytophaga,Lower,Not significant,0.715782504,Provisional p<0.05; verify study-specific testing/correction,3-T13,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Eikenella,Higher,Not significant,0.160636288,Provisional p<0.05; verify study-specific testing/correction,3-T12,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Filifactor,Lower,Not significant,0.783004419,Provisional p<0.05; verify study-specific testing/correction,3-T11,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Fusobacterium,Similar,Not significant,0.958881867,Provisional p<0.05; verify study-specific testing/correction,3-T10,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Haemophilus,Higher,Not significant,0.279499337,Provisional p<0.05; verify study-specific testing/correction,3-T09,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Leptotrichia,Higher,Not significant,0.091416492,Provisional p<0.05; verify study-specific testing/correction,3-T08,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Porphyromonas,Higher,Not significant,0.556658895,Provisional p<0.05; verify study-specific testing/correction,3-T07,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Prevotella,Lower,Not significant,0.248488757,Provisional p<0.05; verify study-specific testing/correction,3-T06,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Pseudoramibacter_Eubacterium,Lower,Not significant,0.203272061,Provisional p<0.05; verify study-specific testing/correction,3-T05,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Selenomonas,Lower,Not significant,0.803653133,Provisional p<0.05; verify study-specific testing/correction,3-T04,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Streptococcus,Higher,Not significant,0.341978089,Provisional p<0.05; verify study-specific testing/correction,3-T03,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Tannerella,Lower,Not significant,0.589284114,Provisional p<0.05; verify study-specific testing/correction,3-T02,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+5,3,Tibetan vs Han,Adults,Periodontal,Treponema,Lower,Not significant,0.700163319,Provisional p<0.05; verify study-specific testing/correction,3-T01,Du,2023,"Du et al. (2023)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Acinetobacter,Lower,Not significant,≥0.05,Provisional p<0.05; verify study-specific testing/correction,5-T11,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Anaerovorax,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,5-T09,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Moraxella,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,5-T07,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Porphyromonas,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,5-T05,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+6,5,Tibetan vs Han,Children,Generally healthy,Streptococcus,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,5-T03,Liu,2021,"Liu et al. (2021)
+Tibetan vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Acinetobacter,Higher,Not significant,≥0.05,Provisional p<0.05; verify study-specific testing/correction,5-T12,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Anaerovorax,Lower,Not significant,≥0.05,Provisional p<0.05; verify study-specific testing/correction,5-T10,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Moraxella,Lower,Not significant,≥0.05,Provisional p<0.05; verify study-specific testing/correction,5-T08,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Porphyromonas,Lower,Not significant,≥0.05,Provisional p<0.05; verify study-specific testing/correction,5-T06,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+7,5,Hui vs Han,Children,Generally healthy,Streptococcus,Higher,Not significant,≥0.05,Provisional p<0.05; verify study-specific testing/correction,5-T04,Liu,2021,"Liu et al. (2021)
+Hui vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Acinetobacter,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,8-T04,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Campylobacter,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,8-T03,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Clostridium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,8-T08,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Haemophilus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,8-T13,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Leptothrix,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,8-T02,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Micrococcus,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,8-T05,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Moraxella,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,8-T06,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,8-T12,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Porphyromonas,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,8-T09,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Rothia,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,8-T01,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Streptococcus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,8-T11,,,"Study 8
+Uygur vs Han"
+8,8,Uygur vs Han,Adults,Periodontal,Treponema,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,8-T10,,,"Study 8
+Uygur vs Han"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Aggregatibacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T004,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Anaerovorax,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T005,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Arthrobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T006,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Atopobium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T007,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Bacillus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T008,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Bulleidia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T009,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Campylobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T010,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Capnocytophaga,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T011,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Carnobacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T012,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Catonella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T013,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Clostridium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T015,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Coprococcus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T016,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Dialister,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T017,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Eikenella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T018,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Enterobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T019,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Enterococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T021,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Erwinia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T022,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Filifactor,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T023,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Fusobacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T024,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Garciella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T025,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Gemella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T026,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Gluconacetobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T028,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Granulicatella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T029,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Haemophilus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T030,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Halomonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T031,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Klebsiella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T032,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Lactobacillus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T034,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Lactococcus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T035,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Leptotrichia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T036,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Leuconostoc,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T037,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Moryella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T038,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T039,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Oribacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T040,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Paludibacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T041,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Parvimonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T042,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Peptostreptococcus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T043,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Porphyromonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T044,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Prevotella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T045,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Proteus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T046,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Providencia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T047,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Pseudomonas,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T048,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Psychrobacter,Equal (descriptive),Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T049,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Rothia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T050,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Selenomonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T051,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Shewanella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T052,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Staphylococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T054,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Streptococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T055,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Tannerella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T056,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Treponema,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T058,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Veillonella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T059,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Wautersiella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T060,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+9,10,Tu vs Han (dental caries),Adults,Dental caries,Weissella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T061,Yun,2019,"Yun et al. (2019)
+Tu vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Acinetobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T062,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Bacillus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T064,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Bacteroides,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T065,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Campylobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T066,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Enterococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T069,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Erwinia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T070,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Filifactor,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T071,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Fusobacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T072,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Gemella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T073,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Gluconacetobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T075,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Granulicatella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T076,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Haemophilus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T077,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Halomonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T078,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Klebsiella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T079,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Lactobacillus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T081,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Lactococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T082,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Leuconostoc,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T083,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Neisseria,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T084,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Nesterenkonia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T085,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Oribacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T086,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Paludibacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T087,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Porphyromonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T088,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Prevotella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T089,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Proteus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T090,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Pseudomonas,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T091,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Psychrobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T092,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Shewanella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T093,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Staphylococcus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T095,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Streptococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T096,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Tannerella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T097,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Veillonella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T099,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Wautersiella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T100,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+10,10,Hui vs Han (dental caries),Adults,Dental caries,Weissella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T101,Yun,2019,"Yun et al. (2019)
+Hui vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Acinetobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T102,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Bacillus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T104,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Carnobacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T105,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Enterococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T108,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Fusobacterium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T109,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Gemella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T110,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Gluconacetobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T112,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Granulicatella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T113,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Haemophilus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T114,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Halomonas,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T115,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Lactobacillus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T117,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Lactococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T118,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Leuconostoc,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T119,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Neisseria,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T120,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Prevotella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T121,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Providencia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T122,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Pseudomonas,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T123,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Psychrobacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T124,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Serratia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T125,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Staphylococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T126,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Streptococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T127,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Veillonella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T128,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+11,10,Tibetan vs Han (dental caries),Adults,Dental caries,Wautersiella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,10-T129,Yun,2019,"Yun et al. (2019)
+Tibetan vs Han (dental caries)"
+12,11,Zhuang vs Han,Children,Generally healthy,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,11-T06,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+12,11,Zhuang vs Han,Children,Generally healthy,Streptococcus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,11-T05,Zhang,2024,"Zhang et al. (2024)
+Zhuang vs Han"
+13,13,Dai vs Han,Adults,Systemic,Akkermansia,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T25,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Systemic,Clostridium,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T23,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Systemic,Faecalibacterium,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T10,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Systemic,Kingella,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T24,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+13,13,Dai vs Han,Adults,Systemic,Lactobacillus,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T09,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Children,Generally healthy,Bulleidia,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T12,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+14,13,Dai vs Han,Children,Generally healthy,Prevotella,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T11,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Actinomyces,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T13,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Bergeyella,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T17,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Corynebacterium,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T14,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Faecalibacterium,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T20,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Haemophilus,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T21,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Haloplasma,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T18,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Lachnoanaerobaculum,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T19,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Olsenella,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T15,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Pasteurella,Lower,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T22,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+15,13,Dai vs Han,Adults,Generally healthy,Prevotella,Higher,Significant,<0.05,Provisional p<0.05; verify study-specific testing/correction,13-T16,Tang,2025,"Tang et al. (2025)
+Dai vs Han"
+16,16,HG vs WC,Adults,Generally healthy,Acidovorax,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T09,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Aggregatibacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T01,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Butyricicoccus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T10,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Eggerthia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T02,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Haemophilus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T12,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Kingella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T03,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Morococcus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T04,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T11,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Porphyromonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T08,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Solobacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T05,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Tannerella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T06,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+16,16,HG vs WC,Adults,Generally healthy,Treponema,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T07,Lassalle,2018,"Lassalle et al. (2018)
+HG vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Acidovorax,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T21,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Aggregatibacter,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T13,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Butyricicoccus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T22,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Eggerthia,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T14,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Haemophilus,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T24,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Kingella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T15,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Morococcus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T16,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T23,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Porphyromonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T20,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Solobacterium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T17,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Tannerella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T18,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+17,16,TF vs WC,Adults,Generally healthy,Treponema,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,16-T19,Lassalle,2018,"Lassalle et al. (2018)
+TF vs WC"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Atopobium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T05,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Bacteroidetes_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T01,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Brachymonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T33,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Granulicatella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T13,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Moraxella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T25,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T17,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Porphyromonadaceae_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T09,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Simonsiella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T29,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+18,21,Foragers (Chepang) vs American industrialists,Adults,Mixed,Streptobacillus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T21,Ryu,2024,"Ryu et al. (2024)
+Foragers (Chepang) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Atopobium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T06,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Bacteroidetes_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T02,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Brachymonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T34,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Granulicatella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T14,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Moraxella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T26,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T18,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Porphyromonadaceae_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T10,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Simonsiella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T30,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+19,21,Recently settled (Raji/Raute) vs American industrialists,Adults,Mixed,Streptobacillus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T22,Ryu,2024,"Ryu et al. (2024)
+Recently settled (Raji/Raute) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Atopobium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T07,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Bacteroidetes_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T03,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Brachymonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T35,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Granulicatella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T15,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Moraxella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T27,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T19,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Porphyromonadaceae_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T11,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Simonsiella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T31,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+20,21,Agriculturalists (Tharu/Newar) vs American industrialists,Adults,Mixed,Streptobacillus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T23,Ryu,2024,"Ryu et al. (2024)
+Agriculturalists (Tharu/Newar) vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Atopobium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T08,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Bacteroidetes_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T04,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Brachymonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T36,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Granulicatella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T16,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Moraxella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T28,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Neisseria,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T20,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Porphyromonadaceae_unclassified,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T12,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Simonsiella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T32,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+21,21,Expatriate Newar vs American industrialists,Adults,Mixed,Streptobacillus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,21-T24,Ryu,2024,"Ryu et al. (2024)
+Expatriate Newar vs American industrialists"
+22,22,Indigenous Australian with PD vs Non-Indigenous with PD,Adults,Periodontal,Porphyromonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,22-T01,Handsley-Davis,2022,"Handsley-Davis et al. (2022)
+Indigenous Australian with PD vs Non-Indigenous with PD"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Actinomyces,Lower,Significant,<0.0001,Provisional p<0.05; verify study-specific testing/correction,27-T01,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Aggregatibacter,Lower,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,27-T16,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Atopobium,Lower,Significant,<0.0001,Provisional p<0.05; verify study-specific testing/correction,27-T03,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Bulleidia,Lower,Significant,<0.001,Provisional p<0.05; verify study-specific testing/correction,27-T13,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Campylobacter,Lower,Significant,<0.0001,Provisional p<0.05; verify study-specific testing/correction,27-T15,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Capnocytophaga,Lower,Significant,<0.001,Provisional p<0.05; verify study-specific testing/correction,27-T06,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Corynebacterium,Lower,Significant,<0.0001,Provisional p<0.05; verify study-specific testing/correction,27-T02,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Haemophilus,Lower,Significant,0.017,Provisional p<0.05; verify study-specific testing/correction,27-T17,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Lautropia,Lower,Significant,<0.001,Provisional p<0.05; verify study-specific testing/correction,27-T14,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Mogibacterium,Lower,Significant,<0.0001,Provisional p<0.05; verify study-specific testing/correction,27-T10,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Prevotella,Higher,Significant,<0.0001,Provisional p<0.05; verify study-specific testing/correction,27-T04,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Selenomonas,Lower,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,27-T12,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+23,27,Cheyenne and Arapaho vs non-native Oklahoma,Adults,Not assessed/reported,Treponema,Lower,Significant,<0.0001,Provisional p<0.05; verify study-specific testing/correction,27-T18,Ozga,2016,"Ozga et al. (2016)
+Cheyenne and Arapaho vs non-native Oklahoma"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Actinobacillus,Higher,Not significant,0.2253,Study 32: author threshold p<0.0005,32-T01,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Actinomyces,Lower,Significant,0,Study 32: author threshold p<0.0005,32-T02,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Aggregatibacter,Lower,Not significant,0.0034,Study 32: author threshold p<0.0005,32-T03,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Atopobium,Lower,Not significant,0.5607,Study 32: author threshold p<0.0005,32-T04,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Campylobacter,Lower,Significant,0.0001,Study 32: author threshold p<0.0005,32-T05,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Capnocytophaga,Higher,Not significant,0.7857,Study 32: author threshold p<0.0005,32-T06,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Citrobacter,Higher,Not significant,0.1318,Study 32: author threshold p<0.0005,32-T07,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Enterobacter,Higher,Not significant,0.0062,Study 32: author threshold p<0.0005,32-T08,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Escherichia,Higher,Significant,0,Study 32: author threshold p<0.0005,32-T09,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Fusobacterium,Higher,Not significant,0.451,Study 32: author threshold p<0.0005,32-T10,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Gemella,Higher,Significant,0,Study 32: author threshold p<0.0005,32-T11,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Granulicatella,Lower,Significant,0,Study 32: author threshold p<0.0005,32-T12,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Haemophilus,Lower,Significant,0.0004,Study 32: author threshold p<0.0005,32-T13,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Klebsiella,Higher,Significant,0,Study 32: author threshold p<0.0005,32-T14,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Leptotrichia,Lower,Not significant,0.002,Study 32: author threshold p<0.0005,32-T15,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Megasphaera,Lower,Significant,0,Study 32: author threshold p<0.0005,32-T16,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Neisseria,Lower,Significant,0,Study 32: author threshold p<0.0005,32-T17,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Oribacterium,Lower,Not significant,0.0541,Study 32: author threshold p<0.0005,32-T18,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Porphyromonas,Lower,Not significant,0.0366,Study 32: author threshold p<0.0005,32-T19,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Prevotella,Higher,Not significant,0.0211,Study 32: author threshold p<0.0005,32-T20,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Providencia,Equal (reported),Not significant,1,Study 32: author threshold p<0.0005,32-T21,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Rothia,Higher,Significant,0,Study 32: author threshold p<0.0005,32-T22,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Salmonella,Equal (reported),Not significant,1,Study 32: author threshold p<0.0005,32-T23,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Selenomonas,Lower,Significant,0,Study 32: author threshold p<0.0005,32-T24,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Serratia,Equal (reported),Not significant,1,Study 32: author threshold p<0.0005,32-T25,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Streptococcus,Higher,Significant,0,Study 32: author threshold p<0.0005,32-T26,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,TM7_genera_incertae_sedis,Lower,Significant,0,Study 32: author threshold p<0.0005,32-T27,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+24,32,Native Alaskans vs Germans,Adults,Generally healthy,Veillonella,Lower,Significant,0,Study 32: author threshold p<0.0005,32-T28,Li,2014,"Li et al. (2014)
+Native Alaskans vs Germans"
+25,33,KhoeSan vs HMP North Americans,Adults,Not assessed/reported,Eubacterium,Higher,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,33-T04,Kidd,2014,"Kidd et al. (2014)
+KhoeSan vs HMP North Americans"
+25,33,KhoeSan vs HMP North Americans,Adults,Not assessed/reported,Filifactor,Higher,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,33-T05,Kidd,2014,"Kidd et al. (2014)
+KhoeSan vs HMP North Americans"
+25,33,KhoeSan vs HMP North Americans,Adults,Not assessed/reported,Granulicatella,Higher,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,33-T02,Kidd,2014,"Kidd et al. (2014)
+KhoeSan vs HMP North Americans"
+25,33,KhoeSan vs HMP North Americans,Adults,Not assessed/reported,Haemophilus,Higher,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,33-T03,Kidd,2014,"Kidd et al. (2014)
+KhoeSan vs HMP North Americans"
+25,33,KhoeSan vs HMP North Americans,Adults,Not assessed/reported,Rothia,Higher,Significant,<0.01,Provisional p<0.05; verify study-specific testing/correction,33-T01,Kidd,2014,"Kidd et al. (2014)
+KhoeSan vs HMP North Americans"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Acinetobacter,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T13,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Actinomyces,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T16,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Fusobacterium,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T05,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Gemella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T02,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Granulicatella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T06,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Haemophilus,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T08,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Porphyromonas,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T09,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Prevotella,Higher,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T03/T07,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Pseudomonas,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T14,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Rothia,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T11,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Sphingobacterium,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T17,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Stenotrophomonas,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T12,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
+26,36,Yanomami vs US,Mixed,Not assessed/reported,Veillonella,Lower,Not reported/unclear,NR,Provisional p<0.05; verify study-specific testing/correction,36-T15,Clemente,2015,"Clemente et al. (2015)
+Yanomami vs US"
